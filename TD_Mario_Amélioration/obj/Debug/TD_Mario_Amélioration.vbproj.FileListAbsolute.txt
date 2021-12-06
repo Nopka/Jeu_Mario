@@ -1,0 +1,15 @@
+D:\Visual Studio\TD_Mario_Amélioration\TD_Mario_Amélioration\bin\Debug\TD_Mario_Amélioration.exe.config
+D:\Visual Studio\TD_Mario_Amélioration\TD_Mario_Amélioration\bin\Debug\TD_Mario_Amélioration.exe
+D:\Visual Studio\TD_Mario_Amélioration\TD_Mario_Amélioration\bin\Debug\TD_Mario_Amélioration.pdb
+D:\Visual Studio\TD_Mario_Amélioration\TD_Mario_Amélioration\bin\Debug\TD_Mario_Amélioration.xml
+D:\Visual Studio\TD_Mario_Amélioration\TD_Mario_Amélioration\obj\Debug\TD_Mario_Amélioration.vbprojAssemblyReference.cache
+D:\Visual Studio\TD_Mario_Amélioration\TD_Mario_Amélioration\obj\Debug\TD_Mario_Amélioration.Form1.resources
+D:\Visual Studio\TD_Mario_Amélioration\TD_Mario_Amélioration\obj\Debug\TD_Mario_Amélioration.Resources.resources
+D:\Visual Studio\TD_Mario_Amélioration\TD_Mario_Amélioration\obj\Debug\TD_Mario_Amélioration.vbproj.GenerateResource.cache
+D:\Visual Studio\TD_Mario_Amélioration\TD_Mario_Amélioration\obj\Debug\TD_Mario_Amélioration.vbproj.CoreCompileInputs.cache
+D:\Visual Studio\TD_Mario_Amélioration\TD_Mario_Amélioration\obj\Debug\TD_Mario_Amélioration.exe
+D:\Visual Studio\TD_Mario_Amélioration\TD_Mario_Amélioration\obj\Debug\TD_Mario_Amélioration.xml
+D:\Visual Studio\TD_Mario_Amélioration\TD_Mario_Amélioration\obj\Debug\TD_Mario_Amélioration.pdb
+D:\Visual Studio\TD_Mario_Amélioration\TD_Mario_Amélioration\obj\Debug\TD_Mario_Amélioration.Defaite.resources
+D:\Visual Studio\TD_Mario_Amélioration\TD_Mario_Amélioration\obj\Debug\TD_Mario_Amélioration.Victoire.resources
+D:\Visual Studio\TD_Mario_Amélioration\TD_Mario_Amélioration\obj\Debug\TD_Mario_Amélioration.Accueil.resources
